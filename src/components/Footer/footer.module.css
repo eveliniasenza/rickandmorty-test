@@ -1,0 +1,16 @@
+.footer{
+  width: 100%;
+  background-color: black;
+  color: white !important;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.footer i {
+  margin-top: 16px;
+  padding: 8px;
+
+}

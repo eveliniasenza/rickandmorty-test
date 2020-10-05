@@ -1,0 +1,27 @@
+.app{
+  background-color: #454343;
+}
+
+.container {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.active {
+  background-color: #585858;
+}
+
+.big-card {
+  margin: 0 auto !important;
+  height: 400px !important;
+  width: 800px !important;
+  max-width: 100% !important;
+}
+
+.big-card .card-image {
+  height: 400px !important;
+}
+
+.d-ib {
+  display: inline-block;
+}
